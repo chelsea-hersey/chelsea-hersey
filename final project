@@ -1,0 +1,7 @@
+echo "# chelsea-hersey" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/chelsea-hersey/chelsea-hersey.git
+git push -u origin main
